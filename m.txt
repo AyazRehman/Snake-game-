@@ -1,0 +1,11 @@
+OOOOO   O   O   OOOOO   O  O    OOOOO
+O       OO  O   O   O   O O     O
+OOOOO   O O O   OOOOO   OO      OOOOO
+    O   O  OO   O   O   O O     O
+OOOOO   O   O   O   O   O  OO   OOOOO
+
+Q1: Write the above line in terms of \n,(space), and O and form a single line
+of string. e.g "OOOOO\nO\nOOOOO\n    O\nOOOOO" (prints S in snake)?
+
+Q2: Draw a sanke as in picture attached using any letter(which you think looks best as O in Q1). 
+Then convert it to above mentioned form(in terms of \n)?
